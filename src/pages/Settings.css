@@ -1,0 +1,36 @@
+.settings-container {
+    display: flex;
+    justify-content: flex-start; /* Align content at the top-left corner */
+    align-items: flex-start; /* Align content at the top-left corner */
+    height: 100vh;
+    padding: 20px; /* Add padding for spacing */
+  }
+  
+  .profile {
+    display: flex;
+    align-items: flex-start; /* Align content at the top-left corner */
+  }
+  
+  .account-image {
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    margin-right: 20px;
+  }
+  
+  .profile-info {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .profile-info h2 {
+    margin: 0;
+    font-size: 24px;
+  }
+  
+  .profile-info h3 {
+    margin: 0;
+    font-size: 18px;
+    color: #555;
+  }
+  
