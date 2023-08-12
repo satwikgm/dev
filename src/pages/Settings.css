@@ -8,7 +8,7 @@
   
   .profile {
     display: flex;
-    align-items: flex-start; /* Align content at the top-left corner */
+    align-items: flex-start; 
   }
   
   .account-image {

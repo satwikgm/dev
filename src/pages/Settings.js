@@ -1,5 +1,5 @@
 import React from "react";
-import "./Settings.css"; // Import your custom styles
+import "./Settings.css"; 
 import accountImage from "../marry.jpeg";
 
 const Settings = () => {

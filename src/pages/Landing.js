@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import './Landing.css'; // Import your custom styles
+import './Landing.css';
 
 const Landing = () => {
   return (

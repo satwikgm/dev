@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './CreateAccount.css'; // Import your custom styles
+import './CreateAccount.css';
 import { Link } from 'react-router-dom';
 
 const CreateAccount = () => {
